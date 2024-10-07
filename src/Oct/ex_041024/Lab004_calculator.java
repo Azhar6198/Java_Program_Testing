@@ -1,6 +1,6 @@
 package Oct.ex_041024;
 
-public class Lab004  {
+public class Lab004_calculator {
     public static void main (String[] args) {
 
             int a = 20;
