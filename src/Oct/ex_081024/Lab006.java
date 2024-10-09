@@ -1,6 +1,7 @@
 package ex_081024;
 
-public class Lab006 { public static void main(String[] args) {
+public class Lab006 {
+    public static void main(String[] args) {
     // Printing a 5x5 multiplication table manually
     System.out.printf("%4s%4d%4d%4d%4d%4d%4d%4d%4d%4d%4d%n", "", 1, 2, 3, 4, 5, 6, 7, 8, 9, 10); // Table header
     System.out.println("----------------------------------------------"); // Separator
