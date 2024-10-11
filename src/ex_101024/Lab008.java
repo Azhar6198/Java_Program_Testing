@@ -1,6 +1,6 @@
 package ex_101024;
 
-public class Lab008 {
+public class Lab010 {
     public static void main(String[] args) {
 
 
