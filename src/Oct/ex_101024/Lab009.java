@@ -1,7 +1,5 @@
 package ex_101024;
 
-
-
     public class Lab009 {
         public static void main(String[] args) {
             // Here is a list of all operators in Java with separate examples:
