@@ -1,4 +1,4 @@
-package Oct.ex_111024;
+package Oct.ex_111024_Data_Type;
 
 public class Lab014 {
     int i_age; // instance variable
