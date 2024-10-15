@@ -6,5 +6,6 @@ public class Lab046 {
         //
         // short s = phone_no; // Implict - JVM
         short s = (short)phone_no; // Explicit - User - Loss that data
-System.out.println(phone_no);
+        System.out.println(phone_no);
+        System.out.println(s); // Explicit - User - Loss that data
 }}
