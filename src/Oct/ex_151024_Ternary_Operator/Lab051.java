@@ -1,4 +1,4 @@
-package Oct.ex_151024_Ternary;
+package Oct.ex_151024_Ternary_Operator;
 
 public class Lab051 {
     public static void main(String[] args) {
