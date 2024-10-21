@@ -5,7 +5,7 @@ public class Lab053 {
         int score = 85;
         String Grade = (score >= 90) ? "A": (score >= 80) ? "B" : (score>=60) ? "C":"F";
         System.out.println("Your grade is -->" + Grade);
-        System.out.println("Your grade is %s, Grade");
+        System.out.printf("Your grade is %d, Grade");
     }
 
 }

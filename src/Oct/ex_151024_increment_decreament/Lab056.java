@@ -3,7 +3,7 @@ package Oct.ex_151024_increment_decreament;
 public class Lab056 {
     public static void main(String[] args) {
         int a = 10;
-        System.out.println(a++ + a); //  A  -> a++  , B  - a
+        System.out.println(++a + a); //  A  -> a++  , B  - a
         // A+B
         // A -> a++ -> 10 ->  a = 11
         // B - a -> 11
