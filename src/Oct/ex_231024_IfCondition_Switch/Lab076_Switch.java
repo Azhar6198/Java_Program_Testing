@@ -1,8 +1,8 @@
-package Oct.ex_231024_Switch_Condition;
+package Oct.ex_231024_IfCondition_Switch;
 
 import java.util.Scanner;
 
-public class Lab076 {
+public class Lab076_Switch {
     public static void main(String[] args) {
         // Switch Condition
         // User - Enter int number from 1 to 7
@@ -11,7 +11,7 @@ public class Lab076 {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the day from (1-7)");
         int day = sc.nextInt();
-        switch (day){9
+        switch (day){
             case 1:
                 System.out.println("Mon");
                 break;

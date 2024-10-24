@@ -1,6 +1,6 @@
 package Oct.ex_221024_IF_Condition;
 import java.util.Scanner;
-public class Lab074 {
+public class Lab074_Shapes {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("enter length of side1");

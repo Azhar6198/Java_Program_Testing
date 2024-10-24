@@ -1,6 +1,6 @@
 package Oct.ex_221024_IF_Condition;
 import java.util.Scanner;
-public class Lab075 {
+public class Lab075_OddorEven {
     public static void main(String[] args) {
         // Create a Program - Take user input
         // Check weather the input is even or odd number

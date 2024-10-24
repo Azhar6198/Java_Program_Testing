@@ -1,6 +1,6 @@
 package Oct.ex_221024_IF_Condition;
 import java.util.Scanner;
-public class Lab073 {
+public class Lab073_Grade {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter your score");
@@ -15,6 +15,7 @@ public class Lab073 {
         } else if (score >= 60 && score <= 69) {
             grade='D';
         } else if(score<=0 || score>100) {
+            System.out.println("LOL-->Are you God??");
             grade = 'o';
         }
         else{
