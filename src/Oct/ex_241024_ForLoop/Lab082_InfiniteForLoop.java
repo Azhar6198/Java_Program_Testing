@@ -1,4 +1,4 @@
-package Oct.ex_231024_IfCondition_Switch;
+package Oct.ex_241024_ForLoop;
 
 public class Lab082_InfiniteForLoop {
     public static void main(String[] args) {

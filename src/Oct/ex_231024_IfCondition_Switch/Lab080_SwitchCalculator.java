@@ -1,6 +1,6 @@
 package Oct.ex_231024_IfCondition_Switch;
 import java.util.Scanner;
-public class Lab0080 {
+public class Lab080_SwitchCalculator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
