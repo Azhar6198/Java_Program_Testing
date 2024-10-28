@@ -14,7 +14,7 @@ public class Lab103 {
 
 
 
-        while(modi<=10){
+        while(Azhar<=10){
             System.out.println("Azhar 10 Years");
             Azhar++;
         }
