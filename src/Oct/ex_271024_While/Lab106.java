@@ -1,4 +1,4 @@
-package Oct.ex_271014_While;
+package Oct.ex_271024_While;
 
 public class Lab106 {
     public static void main(String[] args) {
