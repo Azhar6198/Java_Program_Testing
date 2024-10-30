@@ -1,6 +1,6 @@
 package Oct.ex_301024_Functions;
 import java.lang.String;
-public class Lab121 {
+public class Lab121_String {
     public static void main(String[] args) {
         char c = 'A';
         System.out.println(c);
