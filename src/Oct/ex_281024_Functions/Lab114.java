@@ -8,8 +8,9 @@ public class Lab114 {
 
 
     //  2. Without Parameters but With Return Type
-    String returned_value = greet_with_hello();
+   String returned_value = greet_with_hello();
         System.out.println(returned_value);
+       greet_with_hello();
 
     int voting_age = age_of_vote();
         System.out.println(voting_age);
