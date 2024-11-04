@@ -1,6 +1,6 @@
 package Oct.ex_301024_Functions;
 
-public class Lab122_String {
+public class Lab122_Strings {
     public static void main(String[] args) {
 
             String name = "Azhar";
