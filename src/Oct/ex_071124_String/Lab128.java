@@ -1,6 +1,6 @@
 package Oct.ex_071124_String;
 
-public class Lab126 {
+public class Lab128 {
     public static void main(String[] args) {
         String s1 = "Hello"; // SCP
         String s4 = "Hello"; // SCP
