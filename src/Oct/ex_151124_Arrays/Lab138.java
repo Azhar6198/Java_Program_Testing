@@ -16,9 +16,9 @@ public class Lab138 {
             System.out.println(marks[i]);
         }
 
-        Arrays.sort(marks); // {51,87,90,91,100};
-        int item_index = Arrays.binarySearch(marks, 100);
-        System.out.println(item_index);
+        //Arrays.sort(marks); // {51,87,90,91,100};
+     //   int item_index = Arrays.binarySearch(marks, 100);
+       // System.out.println(item_index);
 
 
 
